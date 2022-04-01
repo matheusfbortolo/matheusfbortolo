@@ -12,60 +12,12 @@
 	<atom:link href="https://matheusbortolo.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://matheusbortolo.github.io</link>
 	<description>Sobre mim</description>
-	<lastBuildDate>Fri, 01 Apr 2022 23:37:48 +0000</lastBuildDate>
+	<lastBuildDate></lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.2</generator>
-	<item>
-		<title>Segundo dia</title>
-		<link>https://matheusbortolo.github.io/2022/04/01/segundo-dia/</link>
-					<comments>https://matheusbortolo.github.io/2022/04/01/segundo-dia/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 01 Apr 2022 23:37:28 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://matheusbortolo.github.io/?p=126</guid>
-
-					<description><![CDATA[As coisas que acontecem no meu dia]]></description>
-										<content:encoded><![CDATA[
-<p>As coisas que acontecem no meu dia</p>
-
-
-
-<figure class="wp-block-image size-full"><img width="615" height="300" src="https://matheusbortolo.github.io/wp-content/uploads/2022/04/programacao-codigos-linhas-1568992488956_v2_615x300.jpg" alt="" class="wp-image-108"/></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://matheusbortolo.github.io/2022/04/01/segundo-dia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Meu dia</title>
-		<link>https://matheusbortolo.github.io/2022/04/01/meu-dia/</link>
-					<comments>https://matheusbortolo.github.io/2022/04/01/meu-dia/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 01 Apr 2022 23:07:09 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://matheusbortolo.github.io/?p=113</guid>
-
-					<description><![CDATA[Hoje no meu serviço aconteceu:]]></description>
-										<content:encoded><![CDATA[
-<p>Hoje no meu serviço aconteceu:</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="682" src="https://matheusbortolo.github.io/wp-content/uploads/2022/04/tela-com-codigos.jpeg" alt="" class="wp-image-107"/></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://matheusbortolo.github.io/2022/04/01/meu-dia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
