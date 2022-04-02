@@ -12,7 +12,7 @@
 	<atom:link href="https://matheusbortolo.github.io/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://matheusbortolo.github.io</link>
 	<description>Sobre mim</description>
-	<lastBuildDate>Fri, 01 Apr 2022 23:47:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Apr 2022 00:29:55 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,21 +20,49 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
-		<title>novo</title>
-		<link>https://matheusbortolo.github.io/2022/04/01/novo/</link>
-					<comments>https://matheusbortolo.github.io/2022/04/01/novo/#respond</comments>
+		<title>O PE GRANDE</title>
+		<link>https://matheusbortolo.github.io/2022/04/01/aaa-2/</link>
+					<comments>https://matheusbortolo.github.io/2022/04/01/aaa-2/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 01 Apr 2022 23:47:13 +0000</pubDate>
+		<pubDate>Fri, 01 Apr 2022 23:59:46 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">https://matheusbortolo.github.io/?p=134</guid>
+		<guid isPermaLink="false">https://matheusbortolo.github.io/?p=139</guid>
 
-					<description><![CDATA[Novo]]></description>
+					<description><![CDATA[No meu dia, conversando com meus colegas &#8230;&#8230;]]></description>
 										<content:encoded><![CDATA[
-<p>Novo</p>
+<p>No meu dia, conversando com meus colegas &#8230;&#8230;</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="800" height="500" src="https://matheusbortolo.github.io/wp-content/uploads/2022/04/codigos.png" alt="" class="wp-image-99"/></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://matheusbortolo.github.io/2022/04/01/novo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://matheusbortolo.github.io/2022/04/01/aaa-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A grande Batida de carros</title>
+		<link>https://matheusbortolo.github.io/2022/04/01/aaa/</link>
+					<comments>https://matheusbortolo.github.io/2022/04/01/aaa/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 01 Apr 2022 23:57:15 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">https://matheusbortolo.github.io/?p=136</guid>
+
+					<description><![CDATA[Estava apostando uma corrida com meu irmão quando &#8230;&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Estava apostando uma corrida com meu irmão quando &#8230;&#8230;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="615" height="300" src="https://matheusbortolo.github.io/wp-content/uploads/2022/04/programacao-codigos-linhas-1568992488956_v2_615x300.jpg" alt="" class="wp-image-100"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://matheusbortolo.github.io/2022/04/01/aaa/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
