@@ -8,16 +8,64 @@
 	>
 
 <channel>
-	<title>Merece 1 Desenho</title>
-	<atom:link href="https://matheusbortolo.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://matheusbortolo.github.io</link>
-	<description>Sobre mim</description>
-	<lastBuildDate></lastBuildDate>
+	<title>Merece1Desenho</title>
+	<atom:link href="http://matheusfbortolo.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://matheusfbortolo.github.io</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Apr 2022 01:35:17 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.2</generator>
-</channel>
+	<item>
+		<title>Corrida com irmão</title>
+		<link>http://matheusfbortolo.github.io/2022/04/03/corrida-com-irmao/</link>
+					<comments>http://matheusfbortolo.github.io/2022/04/03/corrida-com-irmao/#respond</comments>
+		
+		<dc:creator><![CDATA[diego]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 01:35:17 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">http://matheusfbortolo.github.io/?p=10</guid>
+
+					<description><![CDATA[Minha corrida com meu irmão]]></description>
+										<content:encoded><![CDATA[
+<p>Minha corrida com meu irmão</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="615" height="300" src="http://matheusfbortolo.github.io/wp-content/uploads/2022/04/programacao-codigos-linhas-1568992488956_v2_615x300.jpg" alt="" class="wp-image-7"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://matheusfbortolo.github.io/2022/04/03/corrida-com-irmao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>O PE GRANDE</title>
+		<link>http://matheusfbortolo.github.io/2022/04/03/o-pe-grande/</link>
+					<comments>http://matheusfbortolo.github.io/2022/04/03/o-pe-grande/#respond</comments>
+		
+		<dc:creator><![CDATA[diego]]></dc:creator>
+		<pubDate>Mon, 04 Apr 2022 01:34:31 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">http://matheusfbortolo.github.io/?p=5</guid>
+
+					<description><![CDATA[MEu amigo &#8230;&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>MEu amigo &#8230;&#8230;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="682" src="http://matheusfbortolo.github.io/wp-content/uploads/2022/04/tela-com-codigos.jpeg" alt="" class="wp-image-8"/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://matheusfbortolo.github.io/2022/04/03/o-pe-grande/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
